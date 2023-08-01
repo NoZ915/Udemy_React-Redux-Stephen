@@ -1,4 +1,4 @@
-function AnimalShow({type}){
+function AnimalShow({type, index}){
     return <div>{type}</div>
 }
 
