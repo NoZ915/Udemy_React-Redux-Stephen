@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/modern-react-with-redux/04-animals/static/css/main.6fcb89ac.css",
-    "main.js": "/modern-react-with-redux/04-animals/static/js/main.3c031fab.js",
-    "static/media/dog.svg": "/modern-react-with-redux/04-animals/static/media/dog.70df56096fa41df9d7cc64fb46b40933.svg",
-    "static/media/cat.svg": "/modern-react-with-redux/04-animals/static/media/cat.a5ff6c61483cb1b6f176ebe2f042b359.svg",
-    "static/media/gator.svg": "/modern-react-with-redux/04-animals/static/media/gator.9035accbd534fc488eb1fb531c9e767b.svg",
-    "static/media/cow.svg": "/modern-react-with-redux/04-animals/static/media/cow.caef99ab8c0fd06c78cc0fac328dda37.svg",
-    "static/media/bird.svg": "/modern-react-with-redux/04-animals/static/media/bird.224782d1579a91d795d0027d8f070b4b.svg",
-    "static/media/horse.svg": "/modern-react-with-redux/04-animals/static/media/horse.305d0410efa0b614518efa805890c6bc.svg",
-    "index.html": "/modern-react-with-redux/04-animals/index.html",
-    "static/media/heart.svg": "/modern-react-with-redux/04-animals/static/media/heart.286db198ed3962d7ec4724276f411c63.svg",
-    "main.6fcb89ac.css.map": "/modern-react-with-redux/04-animals/static/css/main.6fcb89ac.css.map",
-    "main.3c031fab.js.map": "/modern-react-with-redux/04-animals/static/js/main.3c031fab.js.map"
+    "main.css": "/modern-react-with-redux/static/css/main.6fcb89ac.css",
+    "main.js": "/modern-react-with-redux/static/js/main.c187d717.js",
+    "static/media/dog.svg": "/modern-react-with-redux/static/media/dog.70df56096fa41df9d7cc64fb46b40933.svg",
+    "static/media/cat.svg": "/modern-react-with-redux/static/media/cat.a5ff6c61483cb1b6f176ebe2f042b359.svg",
+    "static/media/gator.svg": "/modern-react-with-redux/static/media/gator.9035accbd534fc488eb1fb531c9e767b.svg",
+    "static/media/cow.svg": "/modern-react-with-redux/static/media/cow.caef99ab8c0fd06c78cc0fac328dda37.svg",
+    "static/media/bird.svg": "/modern-react-with-redux/static/media/bird.224782d1579a91d795d0027d8f070b4b.svg",
+    "static/media/horse.svg": "/modern-react-with-redux/static/media/horse.305d0410efa0b614518efa805890c6bc.svg",
+    "index.html": "/modern-react-with-redux/index.html",
+    "static/media/heart.svg": "/modern-react-with-redux/static/media/heart.286db198ed3962d7ec4724276f411c63.svg",
+    "main.6fcb89ac.css.map": "/modern-react-with-redux/static/css/main.6fcb89ac.css.map",
+    "main.c187d717.js.map": "/modern-react-with-redux/static/js/main.c187d717.js.map"
   },
   "entrypoints": [
     "static/css/main.6fcb89ac.css",
-    "static/js/main.3c031fab.js"
+    "static/js/main.c187d717.js"
   ]
 }
