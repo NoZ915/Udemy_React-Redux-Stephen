@@ -1,22 +1,35 @@
 import Button from "./Button";
+import { GoBellFill, GoHubot, GoPasskeyFill } from "react-icons/go";
 
 function App(){
+    const handleClick = () => {
+        console.log("Click!!");
+    }
     return (
         <div>
             <div>
-                <Button success rounded outline>Click Here !</Button>
+                <Button success rounded outline className="mb-10" onClick={handleClick}>
+                    <GoBellFill />
+                    Click Here !
+                </Button>
             </div>
             <div>
-                <Button danger outline>Buy Now !</Button>
+                <Button danger outline onMouseEnter={handleClick}>
+                    <GoHubot />
+                    Buy Now !
+                </Button>
             </div>
             <div>
-                <Button warning>See Deal !</Button>
+                <Button warning>
+                    <GoPasskeyFill onMouseOut={handleClick}/>
+                    See Deal !
+                </Button>
             </div>
             <div>
                 <Button secondary outline>Hide Ads !</Button>
             </div>
             <div>
-                <Button secondary rounded>Something !</Button>
+                <Button primary rounded>Something !</Button>
             </div>
         </div>
     )
