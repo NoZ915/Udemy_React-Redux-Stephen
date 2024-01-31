@@ -2,7 +2,7 @@ import {createContext, useState, useEffect} from 'react';
 const NavigationContext = createContext();
 
 function NavigationProvider({children}){
-    const [currentPath, setCurrentPath] =useState(window.location.pahtname);
+    const [currentPath, setCurrentPath] =useState(window.location.pathname);
 
     useEffect(() => {
         const handler = () => {
