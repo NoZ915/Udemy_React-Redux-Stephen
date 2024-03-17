@@ -1,23 +1,23 @@
 {
   "users": [
     {
-      "id": 1,
+      "id": "1",
       "name": "Myra"
     },
     {
       "name": "Elsie Price",
-      "id": 3
+      "id": "3"
     },
     {
       "name": "Harold Strosin",
-      "id": 4
+      "id": "4"
     }
   ],
   "albums": [
     {
-      "id": 10,
-      "title": "Hiking Trip",
-      "userId": 1
+      "id": "83ea",
+      "userId": "1",
+      "title": "Ergonomic Bronze Computer"
     }
   ],
   "photos": []
